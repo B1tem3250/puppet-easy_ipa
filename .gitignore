@@ -6,4 +6,3 @@ pkg
 spec/fixtures/
 .idea/
 .vagrant/
-Gemfile.lock
