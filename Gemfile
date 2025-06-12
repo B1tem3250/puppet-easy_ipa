@@ -10,7 +10,7 @@ group :test do
   gem 'metadata-json-lint'
   gem 'hiera'
   gem 'rspec-puppet'
-  gem 'rspec-puppet-facts'
+  gem 'rspec-puppet-facts', '>= 5.4.0'
   gem 'puppetlabs_spec_helper'
   gem 'semantic_puppet'
 end
