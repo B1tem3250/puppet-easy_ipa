@@ -7,7 +7,7 @@ group :test do
 #  gem 'puppet_facts'
   gem 'facter'
   gem 'json'
-  gem 'metadata-json-lint'
+  gem 'metadata-json-lint', '>= 2.1.0'
   gem 'hiera'
   gem 'rspec-puppet'
   gem 'rspec-puppet-facts'
